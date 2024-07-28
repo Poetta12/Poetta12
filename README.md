@@ -6,7 +6,7 @@
 <img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=Poetta12&theme=dracula' />
 </p>
 
-[dashboard WakaTime](https://gist.github.com/matchai/a09c1e225492d950e2152dfc17297fb0)
+[dashboard WakaTime](<script src="https://gist.github.com/Poetta12/a09c1e225492d950e2152dfc17297fb0.js"></script>)
 
 ## À propos de moi
 
