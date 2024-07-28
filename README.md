@@ -2,11 +2,9 @@
 
 <p align=left>
 <!-- <img algin='left' width='49%' src='https://github-readme-stats.vercel.app/api?username=tynab&count_private=true&show_icons=true&theme=dracula' /> -->
-<img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=tynab&count_private=true&show_icons=true&theme=dracula' />
-<img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=tynab&theme=dracula' />
+<img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=Poetta12&count_private=true&show_icons=true&theme=dracula' />
+<img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=Poetta12&theme=dracula' />
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Poetta12&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## À propos de moi
 Vous pouvez inclure des badges, des statistiques GitHub, des liens vers des articles de blog, etc.
