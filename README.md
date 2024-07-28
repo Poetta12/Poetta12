@@ -1,5 +1,7 @@
 # Bonjour, je suis Pedro Costa 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Poetta12&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## À propos de moi
 Vous pouvez inclure des badges, des statistiques GitHub, des liens vers des articles de blog, etc.
 
