@@ -6,6 +6,8 @@
 <img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=Poetta12&theme=dracula' />
 </p>
 
+[dashboard WakaTime](https://gist.github.com/matchai/a09c1e225492d950e2152dfc17297fb0)
+
 ## À propos de moi
 
 Avec une carrière réussie dans le commerce et la gestion, j'ai récemment fait la transition vers le domaine du développement numérique pour relever les défis et saisir les opportunités du monde moderne.
