@@ -6,11 +6,7 @@
 <img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=Poetta12&theme=dracula' />
 </p>
 
-## Exemple d'Intégration de Gist
-
-Voici un exemple de code depuis un Gist :
-
-<script src="https://gist.github.com/Poetta12/06b3c472273e65997182e4eca1de8782.js"></script>
+[Gist: track_time.py](https://gist.github.com/Poetta12/06b3c472273e65997182e4eca1de8782)
 
 
 
