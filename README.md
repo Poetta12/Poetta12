@@ -28,7 +28,7 @@ Le portfolio est conçu pour offrir une vue complète de mes compétences techni
 #### 🎨 **Fonctionnalités Clés**
 
 - **Interface Interactive** : Navigation fluide et intuitive, avec des animations qui améliorent l'expérience utilisateur.
-- **Sections Informative** : Comprend des informations personnelles, des liens professionnels (LinkedIn, GitHub), un aperçu de mon parcours éducatif, ainsi que mes compétences techniques et expériences professionnelles.
+- **Sections Informatives** : Comprend des informations personnelles, des liens professionnels (LinkedIn, GitHub), un aperçu de mon parcours éducatif, ainsi que mes compétences techniques et expériences professionnelles.
 - **Design Responsive** : Optimisé pour tous les types d'appareils, garantissant une expérience utilisateur cohérente sur desktop et mobile.
 
 #### 🌟 **Points Forts**
