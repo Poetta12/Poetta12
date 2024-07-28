@@ -1,5 +1,11 @@
 # Bonjour, je suis Pedro Costa 👋
 
+<p align=left>
+<!-- <img algin='left' width='49%' src='https://github-readme-stats.vercel.app/api?username=tynab&count_private=true&show_icons=true&theme=dracula' /> -->
+<img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=tynab&count_private=true&show_icons=true&theme=dracula' />
+<img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=tynab&theme=dracula' />
+</p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Poetta12&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## À propos de moi
