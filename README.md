@@ -7,7 +7,6 @@
 </p>
 
 ## À propos de moi
-Vous pouvez inclure des badges, des statistiques GitHub, des liens vers des articles de blog, etc.
 
 Avec une carrière réussie dans le commerce et la gestion, j'ai récemment fait la transition vers le domaine du développement numérique pour relever les défis et saisir les opportunités du monde moderne.
 
