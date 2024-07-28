@@ -6,7 +6,6 @@
 <img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=Poetta12&theme=dracula' />
 </p>
 
-<script src="https://gist.github.com/shikanime/18a5a8350c7bfe760adb6c37b6bbe5a9.js"></script>
 
 ## À propos de moi
 Vous pouvez inclure des badges, des statistiques GitHub, des liens vers des articles de blog, etc.
