@@ -6,6 +6,12 @@
 <img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=Poetta12&theme=dracula' />
 </p>
 
+<p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/4658208/60469862-2e40bf00-9c2c-11e9-87f7-afe164648de4.png">
+  <h3 align="center">waka-box</h3>
+  <p align="center">Update a pinned gist to contain your weekly WakaTime stats</p>
+</p>
+
 ## À propos de moi
 Vous pouvez inclure des badges, des statistiques GitHub, des liens vers des articles de blog, etc.
 
