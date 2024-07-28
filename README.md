@@ -6,10 +6,6 @@
 <img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=Poetta12&theme=dracula' />
 </p>
 
-[Gist: track_time.py](https://gist.github.com/Poetta12/a09c1e225492d950e2152dfc17297fb0)
-
-
-
 ## À propos de moi
 Vous pouvez inclure des badges, des statistiques GitHub, des liens vers des articles de blog, etc.
 
