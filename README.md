@@ -1,4 +1,4 @@
-# Bonjour, je suis Pedro Costa 👋
+# Bonjour, je suis Pedro Costa (AKA Poetta)👋
 
 <p align=left>
 <!-- <img algin='left' width='49%' src='https://github-readme-stats.vercel.app/api?username=tynab&count_private=true&show_icons=true&theme=dracula' /> -->
