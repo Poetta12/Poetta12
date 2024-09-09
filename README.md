@@ -15,8 +15,8 @@ Ayant obtenu un premier certificat en développement web et mobile Front-end et 
 Captivé par l'innovation technologique et animé par le désir de créer des solutions numériques impactantes, je suis prêt à relever de nouveaux défis et à contribuer aux succès de projets numériques ambitieux.
 
 ## Mes projets
-### Portfolio.
-### Poettatch.fr
+### PORTFOLIO.
+### poettatch.fr
 
 **Poettatch.fr** est mon portfolio personnel développé avec Vue.js, mettant en avant mes compétences en développement web. Ce site constitue une vitrine interactive de mon travail, conçue pour refléter mon expertise et ma passion pour la création d'applications web modernes.
 
@@ -48,7 +48,7 @@ Poettatch.fr représente une démonstration concrète de mon expertise en dével
 
 
 
-### hotel_project
+### HOTEL_PROJECT
 # Hotel Management System
 
 **Hotel Management System** est un projet d'entraînement complet destiné à perfectionner mes compétences en développement web avec Laravel, PHP, Vue.js et JavaScript. Ce projet illustre ma capacité à créer des applications web robustes et fonctionnelles, avec une attention particulière portée à l'expérience utilisateur et à la gestion des données.
